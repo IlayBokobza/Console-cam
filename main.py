@@ -1,6 +1,5 @@
 from io import BytesIO
 from PIL import Image
-from colorama import Fore
 from yachalk import chalk
 import cv2
 
