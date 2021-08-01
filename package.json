@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "get":"pip install yachalk Pillow opencv-python",
+        "start":"python3 main.py"
+    }
+}
